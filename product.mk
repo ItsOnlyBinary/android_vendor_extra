@@ -1,4 +1,4 @@
-// ItsOnlyBinary Vendor Changes
+# ItsOnlyBinary Vendor Changes
 
 CM_BUILDTYPE := CUSTOM
 
